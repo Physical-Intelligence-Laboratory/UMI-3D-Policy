@@ -213,6 +213,22 @@ python scripts/eval_arx5_hik.py \
   <img src="docs/assets/demo2.gif" width="48%" />
 </div>
 
+## Citation
+
+If you find this work useful for your research, please consider citing:
+
+```bibtex
+@misc{wang2026umi3dextendinguniversalmanipulation,
+  title={UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception},
+  author={Ziming Wang},
+  year={2026},
+  eprint={2604.14089},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2604.14089}
+}
+```
+
 ## Acknowledgements
 
 This project builds upon several outstanding open-source efforts in embodied intelligence and robotic manipulation, including 

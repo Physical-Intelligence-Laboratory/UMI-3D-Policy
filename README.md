@@ -75,6 +75,8 @@ After completing the data preparation, you should obtain a dataset file such as:
 ```bash
 DATASET_NAME.zarr.zip
 ```
+(Example datasets are available at: https://github.com/Physical-Intelligence-Laboratory/UMI-3D-Dataset.)
+
 
 ## 1. Policy Training
 

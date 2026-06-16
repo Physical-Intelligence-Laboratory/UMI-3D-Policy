@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C/C++/CMake build files
+build/
+*/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Logs and experiment outputs
+logs/
+outputs/
+wandb/
+*.log
+
+# Large datasets / training artifacts
+*.zarr
+*.hdf5
+*.h5
+*.bag
+*.db3
+*.mcap
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.pkl
+
+# Local data folders
+data_workspace/
+**/data_workspace/
+**/data/experiments/
+**/data/models/
+
+# Temporary files
+*.tmp
+*.bak
